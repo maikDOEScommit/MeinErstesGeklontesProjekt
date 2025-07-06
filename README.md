@@ -1,8 +1,3 @@
-# MeinErstesGeklontesProjekt
-
-Dies ist ein Project,
- das ich von GitHub geklont habe! 
-
- gepushed.
-
- Step 5
+# Mein erstes geklontes Projekt
+Dies ist ein Projekt, das ich von GitHub geklont habe!
+Diese Zeile wurde direkt auf GitHub hinzugefügt.
