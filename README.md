@@ -1,3 +1,4 @@
 # MeinErstesGeklontesProjekt
 
-Dies ist ein Projekt, das ich von GitHub geklont habe!
+Dies ist ein Project,
+ das ich von GitHub geklont habe! 
